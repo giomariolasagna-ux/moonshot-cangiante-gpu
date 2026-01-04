@@ -1,0 +1,9 @@
+{
+    "image_path": "C:\\Users\\Administrator\\moonshot-td-gpu\\assets\\96.south.safe.baseline.jpg",
+    "td_host":  "127.0.0.1",
+    "td_port":  5005,
+    "model":  "kimi-k2-turbo-preview",
+    "decision_hz":  2.0,
+    "temperature":  0.35,
+    "max_tokens":  300
+}

@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+
+# TouchDesigner
+*.toe-backup
+*.toe~ 
+Cache/
+Derived/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
